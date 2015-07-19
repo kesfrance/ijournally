@@ -24,8 +24,10 @@ This is the portable version of the snippet app, built with Python, SQL and SQli
    The get option will retrive notes using any of the keyword in the database.
 
 #####search
-    The search option can be used to retrieve notes by search for substring of text contained within notes.
-    All notes with the substring searched will be retrieved. User can then use the keyword of the required 
-    to select note required.
+   The search option can be used to retrieve notes by search for substring of text contained within notes.
+   All notes with the substring searched will be retrieved. User can then use the keyword of the required 
+   to select note required.
+     
+     search "the boy
     
 #####catalog
