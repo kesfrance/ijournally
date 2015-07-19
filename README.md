@@ -3,20 +3,20 @@ This is the portable version of the snippet app, built with Python, SQL and SQli
 
 Functionalities
 
-*Store dates, keyword identifiers/Title, snippets of notes via the command line 
+1. Store dates, keyword identifiers/Title, snippets of notes via the command line 
 
-*Retrieve notes using keywords
+2. Retrieve notes using keywords
 
-*Retrieve notes by searching substrings of text within notes
+3. Retrieve notes by searching substrings of text within notes
 
 ###Features
 
-###Create
+#####Create
 
-###put
+#####put
 
-###get
+#####get
 
-###search
+#####search
 
-###catalog
+#####catalog
