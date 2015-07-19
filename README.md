@@ -1,7 +1,7 @@
 # A command line journalling application. 
 This is the portable version of the snippet app, built with Python, SQL and SQlite.
 
-Functionalities
+####Functionalities
 
 1. Store dates, keyword identifiers/Title, snippets of notes via the command line 
 
