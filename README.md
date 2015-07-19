@@ -9,10 +9,12 @@ This is the portable version of the snippet app, built with Python, SQL and SQli
 
 3. Retrieve notes by searching substrings of text within notes
 
-###Features
+####Features
 
 #####Create
-
+  This option will create a new database, but also overwrites any existing database. User is prompted with 
+  a warning message, before overwritting existing databse. 
+  
 #####put
 
 #####get
