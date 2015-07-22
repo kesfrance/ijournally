@@ -1,6 +1,8 @@
 # A command line journalling application. 
 This is the sqlite implementation of my journalling app; built with Python, SQL and SQlite.
 
+ijournalling can be used for storing one liners, passwords or any short text, or cheats that you would like to quickly retrieve from the command line without opening a text or pdf file to see where you last wrote it. It's a sort of command line diary. Sometimes one finds a cool cheat or  a cool one liner for doing something and want to access it quickly on the command line another time without opening and looking through files. Then some of us have passwords for a number of portals that we just forget which password is for which portal. ijournalling is a tool for managing any of the aformetioned situations. Please email me @kesfrance@yahoo.com if you find any bugs or if you have any general comments. 
+
 ####Functionalities
 
 1. Store dates, keyword identifiers/Title, snippets of notes via the command line 
